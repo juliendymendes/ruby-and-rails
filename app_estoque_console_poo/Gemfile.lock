@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.7.2)
+    terminal-table (3.0.2)
+      unicode-display_width (>= 1.1.1, < 3)
+    unicode-display_width (2.6.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  json
+  terminal-table
+
+RUBY VERSION
+   ruby 3.3.4p94
+
+BUNDLED WITH
+   2.5.17

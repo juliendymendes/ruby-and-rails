@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Banana",
+    "descricao": "Banana nanica",
+    "preco": 1.5,
+    "quantidade": 30
+  },
+  {
+    "id": 2,
+    "nome": "Melão",
+    "descricao": "Melão amarelo",
+    "preco": 3.5,
+    "quantidade": 37
+  },
+  {
+    "id": 1726867389,
+    "nome": "teste",
+    "descricao": "teste desc",
+    "preco": 23.0,
+    "quantidade": 1
+  },
+  {
+    "id": 1726868644,
+    "nome": "testteste 1",
+    "descricao": "tehjhsda",
+    "preco": 34.0,
+    "quantidade": 4
+  }
+]
